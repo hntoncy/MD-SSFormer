@@ -16,3 +16,13 @@ The MDC module.
 # Citation:
 
 Dongxu Cheng, Zifang Zhou, Hao Li, Jingwen Zhang, Yan Yang. A morphological difference and statistically sparse transformer-based deep neural network for medical image segmentation[J]. Applied Soft Computing, 2025, 174: 113052.
+
+@article{CHENG2025113052,  
+title = {A morphological difference and statistically sparse transformer-based deep neural network for medical image segmentation},  
+journal = {Applied Soft Computing},  
+volume = {174},  
+pages = {113052},  
+year = {2025},  
+issn = {1568-4946},  
+author = {Dongxu Cheng and Zifang Zhou and Hao Li and Jingwen Zhang and Yan Yang},  
+}
