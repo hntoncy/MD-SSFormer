@@ -14,6 +14,7 @@ The proposed SSFormer module.
 The MDC module.  
 
 # Citation:
+If our work is helpful to your research, please cite our paper following this.
 
 Dongxu Cheng, Zifang Zhou, Hao Li, Jingwen Zhang, Yan Yang. A morphological difference and statistically sparse transformer-based deep neural network for medical image segmentation[J]. Applied Soft Computing, 2025, 174: 113052.
 
